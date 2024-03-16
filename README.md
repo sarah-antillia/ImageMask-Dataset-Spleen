@@ -111,5 +111,6 @@ By using Python script <a href="./generator/split_master.py">split_master.py</a>
 
 You can download the latest dataset from the google drive 
 <a href="https://drive.google.com/file/d/1uFdvbuDOLHhNvgDC8MR9TZalTBrbim3J/view?usp=sharing">
-Spleen-ImageMask-Dataset.zip</a> (2024/02/21)
+Spleen-ImageMask-Dataset.zip</a> 
+
 
